@@ -16557,22 +16557,22 @@ ff02::3 ip6-allhosts
 0.0.0.0 v2.shareaholic.com
 
 # [sharethis.com]
-0.0.0.0 count-server.sharethis.com
-0.0.0.0 data.sharethis.com
-0.0.0.0 edge.sharethis.com
-0.0.0.0 l.sharethis.com
-0.0.0.0 platform-api.sharethis.com
-0.0.0.0 px.sharethis.com
-0.0.0.0 pxcel.sharethis.com
-0.0.0.0 rest.sharethis.com
-0.0.0.0 s.sharethis.com
-0.0.0.0 sd.sharethis.com
-0.0.0.0 seg.sharethis.com
-0.0.0.0 t.sharethis.com
-0.0.0.0 w.sharethis.com
-0.0.0.0 wd.sharethis.com
-0.0.0.0 wd-edge.sharethis.com
-0.0.0.0 ws.sharethis.com
+# 0.0.0.0 count-server.sharethis.com
+# 0.0.0.0 data.sharethis.com
+# 0.0.0.0 edge.sharethis.com
+# 0.0.0.0 l.sharethis.com
+# 0.0.0.0 platform-api.sharethis.com
+# 0.0.0.0 px.sharethis.com
+# 0.0.0.0 pxcel.sharethis.com
+# 0.0.0.0 rest.sharethis.com
+# 0.0.0.0 s.sharethis.com
+# 0.0.0.0 sd.sharethis.com
+# 0.0.0.0 seg.sharethis.com
+# 0.0.0.0 t.sharethis.com
+# 0.0.0.0 w.sharethis.com
+# 0.0.0.0 wd.sharethis.com
+# 0.0.0.0 wd-edge.sharethis.com
+# 0.0.0.0 ws.sharethis.com
 
 # [sharethrough.com]
 0.0.0.0 b.sharethrough.com
@@ -50603,7 +50603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.search.ch
 0.0.0.0 ad.searchina.ne.jp
 0.0.0.0 ad.sensismediasmart.com
-0.0.0.0 ad.sharethis.com
+# 0.0.0.0 ad.sharethis.com
 0.0.0.0 ad.showbizz.net
 0.0.0.0 ad.sma.punto.net
 0.0.0.0 ad.smartclip.net
@@ -52398,7 +52398,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aktif.haberx.com
 0.0.0.0 aktiv-blog.com
 0.0.0.0 aktiv-hirek.net
-0.0.0.0 al1.sharethis.com
+# 0.0.0.0 al1.sharethis.com
 0.0.0.0 alert.police-patrol-agent.com
 0.0.0.0 all.orfr.adgtw.orangeads.fr
 0.0.0.0 alliance.adbureau.net
@@ -53452,7 +53452,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e1.addthis.com
 0.0.0.0 e2.cdn.qnsr.com
 0.0.0.0 e2.emediate.se
-0.0.0.0 ead.sharethis.com
+# 0.0.0.0 ead.sharethis.com
 0.0.0.0 eads-adserving.com
 0.0.0.0 earnlivingonline.net
 0.0.0.0 earnmygift.com
@@ -55565,7 +55565,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s3.pfp.sina.net
 0.0.0.0 s5.addthis.com
 0.0.0.0 s7clean.com
-0.0.0.0 sad.sharethis.com
+# 0.0.0.0 sad.sharethis.com
 0.0.0.0 safari-critical-alert.com
 0.0.0.0 safe.bestapps.com-protection.info
 0.0.0.0 safe.hyperpaysys.com
@@ -62510,7 +62510,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.ext.go-tellm.com
-0.0.0.0 analytics.google.com
+# 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.myfinance.com
 0.0.0.0 analytics.mytvzion.pro
 0.0.0.0 analytics.swiggy.com
