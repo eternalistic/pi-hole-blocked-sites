@@ -7088,7 +7088,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dante2007.com
 
 # [dartsearch.net]
-0.0.0.0 clickserve.dartsearch.net
+# 0.0.0.0 clickserve.dartsearch.net
 
 # [databerries.com]
 0.0.0.0 databerries.com
@@ -41670,8 +41670,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.cc-dt.com
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 creative.cc-dt.com
-0.0.0.0 clickserve.eu.dartsearch.net
-0.0.0.0 clickserve.uk.dartsearch.net
+# 0.0.0.0 clickserve.eu.dartsearch.net
+# 0.0.0.0 clickserve.uk.dartsearch.net
 0.0.0.0 doubleclick.net
 0.0.0.0 ad.ae.doubleclick.net
 0.0.0.0 ad.ar.doubleclick.net
@@ -41729,7 +41729,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 affiliate.2mdn.net
 # 0.0.0.0  s0.2mdn.net #[affects video stream]
 # 0.0.0.0  static.2mdn.net #[affects Youtube]
-0.0.0.0 clickserve.us2.dartsearch.net
+# 0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 n4061ad.hk.doubleclick.net
 # [Google / DoubleClick][AS15169][74.125.0.0 - 74.125.255.255]
