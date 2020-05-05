@@ -9124,20 +9124,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.nl
 
 # [googleadservices.co.uk]
-0.0.0.0 googleadservices.co.uk
+# 0.0.0.0 googleadservices.co.uk
 
 # [googleadservices.com]
-0.0.0.0 googleadservices.com
-0.0.0.0 4.afs.googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 partner.googleadservices.com
-0.0.0.0 www.googleadservices.com
+# 0.0.0.0 googleadservices.com
+# 0.0.0.0 4.afs.googleadservices.com
+# 0.0.0.0 pagead2.googleadservices.com
+# 0.0.0.0 partner.googleadservices.com
+# 0.0.0.0 www.googleadservices.com
 
 # [googleadservices.org]
-0.0.0.0 googleadservices.org
+# 0.0.0.0 googleadservices.org
 
 # [googleadservices.ru]
-0.0.0.0 googleadservices.ru
+# 0.0.0.0 googleadservices.ru
 
 # [googleadsserving.cn]
 0.0.0.0 static.googleadsserving.cn
@@ -53578,7 +53578,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fe.lea.lycos.es
 0.0.0.0 federaldata.io
 0.0.0.0 feed.4wnet.com
-0.0.0.0 feedads.googleadservices.com
+# 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 feedbackcensus.com
 0.0.0.0 feeds.weselltraffic.com
 0.0.0.0 fei.pro-market.net
@@ -54451,7 +54451,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m2.nsimg.net
 0.0.0.0 m2.sexgarantie.nl
 0.0.0.0 m3.2mdn.net
-0.0.0.0 m4.afs.googleadservices.com
+# 0.0.0.0 m4.afs.googleadservices.com
 0.0.0.0 m4.media-box.co
 0.0.0.0 m4ymh0220.tech
 0.0.0.0 ma.baidu.com
@@ -54615,16 +54615,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 mightymagoo.com
 0.0.0.0 mii-image.adjuggler.com
 0.0.0.0 milyondolar.com
-0.0.0.0 mimageads.googleadservices.com
-0.0.0.0 mimageads1.googleadservices.com
-0.0.0.0 mimageads2.googleadservices.com
-0.0.0.0 mimageads3.googleadservices.com
-0.0.0.0 mimageads4.googleadservices.com
-0.0.0.0 mimageads5.googleadservices.com
-0.0.0.0 mimageads6.googleadservices.com
-0.0.0.0 mimageads7.googleadservices.com
-0.0.0.0 mimageads8.googleadservices.com
-0.0.0.0 mimageads9.googleadservices.com
+# 0.0.0.0 mimageads.googleadservices.com
+# 0.0.0.0 mimageads1.googleadservices.com
+# 0.0.0.0 mimageads2.googleadservices.com
+# 0.0.0.0 mimageads3.googleadservices.com
+# 0.0.0.0 mimageads4.googleadservices.com
+# 0.0.0.0 mimageads5.googleadservices.com
+# 0.0.0.0 mimageads6.googleadservices.com
+# 0.0.0.0 mimageads7.googleadservices.com
+# 0.0.0.0 mimageads8.googleadservices.com
+# 0.0.0.0 mimageads9.googleadservices.com
 0.0.0.0 mimicrice.com
 0.0.0.0 minden-egyben.com
 0.0.0.0 mindenbenegyblog.hu
@@ -54679,7 +54679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 movsflix.com
 0.0.0.0 mp.tscapeplay.com
 0.0.0.0 mp3playersource.com
-0.0.0.0 mpartner.googleadservices.com
+# 0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 mpv.sandai.net
 0.0.0.0 mr4evmd0r1.s.ad6media.fr
 0.0.0.0 ms.yandex.ru
@@ -57198,7 +57198,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.paperg.com
 0.0.0.0 www.parsads.com
-0.0.0.0 www.partner.googleadservices.com
+# 0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www.partycasino.com
 0.0.0.0 www.pathforpoints.com
 0.0.0.0 www.paypopup.com
