@@ -763,7 +763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.be
 0.0.0.0 marketingplatform.google.com
 0.0.0.0 smartlock.google.com
-0.0.0.0 www.googletagmanager.com
+# 0.0.0.0 www.googletagmanager.com
 0.0.0.0 goooooooooogle.com
 0.0.0.0 www.goooooooooogle.com
 0.0.0.0 grabify.link
@@ -9106,7 +9106,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pagead-tpc.l.google.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 s0-2mdn-net.l.google.com
-0.0.0.0 www-googletagmanager.l.google.com
+# 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 video-stats.video.google.com
 
 # [google.com.tr]
@@ -9158,7 +9158,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 video-ad-stats.googlesyndication.com
 
 # [googletagmanager.com]
-0.0.0.0 googletagmanager.com
+# 0.0.0.0 googletagmanager.com
 
 # [googletagservices.com]
 0.0.0.0 googletagservices.com
