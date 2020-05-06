@@ -42214,7 +42214,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsharenetwork.com
 # [Internap / Gwallet][AS12182]AS14745[72.5.64.0 - 72.5.92.127]
 0.0.0.0 rs.gwallet.com
-0.0.0.0 www.ojrq.net
+# 0.0.0.0 www.ojrq.net
 # [Internap / Outbrain][AS13789][74.201.198.64 - 74.201.198.95]
 # [Internap / Gather][AS12182][74.201.33.0 - 74.201.33.255]
 0.0.0.0 tracking.skyword.com
